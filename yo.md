@@ -1,5 +1,0 @@
-# yo
-
-```python
-import numpy
-```
